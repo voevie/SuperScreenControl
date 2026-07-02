@@ -10,13 +10,13 @@
 - 支持AI大模型手机界面分析、文本生成、上下文分析以及问答；
 - 支持实时截屏、文件拖拽的功能；
 ## Download(下载)
-[软件下载链接](https://my.feishu.cn/wiki/UbgAwRsvAibUmHkYF0jcygWHn1c)
+[软件下载链接](https://my.feishu.cn/wiki/UbgAwRsvAibUmHkYF0jcygWHn1c) 
 ## Configuration(移动端配置)
-[移动设备配置方式（包括Android和iOS）](https://my.feishu.cn/wiki/CwJlwqxldiKxmGkJ4dhcznbrnub)
+[移动设备配置方式（包括Android和iOS）](https://my.feishu.cn/wiki/CwJlwqxldiKxmGkJ4dhcznbrnub) 
 ## Automatic(自动化脚本创作过程)
-[自动化控件使用方法](https://my.feishu.cn/wiki/A9zMwNYjjisgVZk0JR9cdQ17nwb)
-[自动化创作](https://my.feishu.cn/wiki/TXyMw8VvbijrShkJJugcJ5Fonrh)
-自动化视频创作过程如下视频：
+[自动化控件使用方法](https://my.feishu.cn/wiki/A9zMwNYjjisgVZk0JR9cdQ17nwb) 
+[自动化创作](https://my.feishu.cn/wiki/TXyMw8VvbijrShkJJugcJ5Fonrh) 
+自动化视频创作过程如下视频： 
 
 https://github.com/user-attachments/assets/4ace3265-ee57-4356-b940-a3a9c85e3100
 
