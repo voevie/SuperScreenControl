@@ -1,4 +1,6 @@
 # SuperScreenControl（超级屏控）
+超级屏控是一款跨平台的多端支持的移动端屏幕控制和自动化软件，通过USB数据线进行超低延时的实时投屏和通过鼠标来控制移动设备屏幕，同时通过拖拽的方式来实现自动化脚本的设计，使用者不需要会Python、Java、C++、JS等脚本创作语言，直接拖拽功能框，通过连接线实现自动化逻辑，就可以创作自己的自动化创作脚本了，任何想要自动化操作手机屏幕的使用者都可以定义自己的脚本。
+[超级屏控的使用教程](https://my.feishu.cn/docx/LpQQd4Y6YoX3QAx7FPfciX84n7c)  
 ## Introduction(介绍)
 - 支持多Android、iOS设备连接，自动连接、多台设备同时连接（群控、矩阵）、PC端支持Mac/Windows设备；
 - 支持Android的USB连接和WiFi局域网连接，支持iOS设备的USB连接；
