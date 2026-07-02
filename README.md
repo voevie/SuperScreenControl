@@ -18,8 +18,9 @@
 [自动化创作](https://my.feishu.cn/wiki/TXyMw8VvbijrShkJJugcJ5Fonrh)
 自动化视频创作过程如下视频：
 
+https://github.com/user-attachments/assets/4ace3265-ee57-4356-b940-a3a9c85e3100
 
-https://github.com/user-attachments/assets/b11c4653-d1ce-4fac-8baa-1aaf9f0acc2a
+
 
 
 
