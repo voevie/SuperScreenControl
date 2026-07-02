@@ -19,8 +19,11 @@
 自动化视频创作过程如下视频：  
 [![点击观看演示视频](https://github.com/user-attachments/assets/14dafba1-bdbb-4cde-bfe6-a6935e91df16)](https://my.feishu.cn/wiki/IGlrwTCtliHL3pketcOc6Mdjn6g)  
 移动端自动化过程如下视频：  
-https://github.com/user-attachments/assets/4ace3265-ee57-4356-b940-a3a9c85e3100
-[![点击观看视频]](https://github.com/user-attachments/assets/4ace3265-ee57-4356-b940-a3a9c85e3100)
+
+
+https://github.com/user-attachments/assets/433182c4-656d-4529-9640-2662ddbf8481
+
+
 
 
 
