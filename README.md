@@ -21,7 +21,9 @@
 移动端自动化过程如下视频：  
 
 
-https://github.com/user-attachments/assets/433182c4-656d-4529-9640-2662ddbf8481
+https://github.com/user-attachments/assets/5df56e77-d331-4177-bb88-064af876867b
+
+
 
 
 
