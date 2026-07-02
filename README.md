@@ -1,5 +1,5 @@
 # SuperScreenControl（超级屏控）
-##Introduction(介绍)
+## Introduction(介绍)
 - 支持多Android、iOS设备连接，自动连接、多台设备同时连接（群控、矩阵）；
 - 支持Android的USB连接和WiFi局域网连接，支持iOS设备的USB连接；
 - 支持电脑端控制Android、iPhone手机，包括应用启动、安装应用、模拟设备操作（点击、双击、滑动、返回、亮屏、息屏、关机、调音量）等基本操作；
