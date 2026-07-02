@@ -17,8 +17,7 @@
 [自动化控件使用方法](https://my.feishu.cn/wiki/A9zMwNYjjisgVZk0JR9cdQ17nwb)  
 [自动化创作](https://my.feishu.cn/wiki/TXyMw8VvbijrShkJJugcJ5Fonrh)  
 自动化视频创作过程如下视频：  
-[![点击观看演示视频](<img width="1752" height="1108" alt="screenshot_ar" src="https://github.com/user-attachments/assets/14dafba1-bdbb-4cde-bfe6-a6935e91df16" />
-)](https://my.feishu.cn/wiki/IGlrwTCtliHL3pketcOc6Mdjn6g)
+[![点击观看演示视频](https://github.com/user-attachments/assets/14dafba1-bdbb-4cde-bfe6-a6935e91df16)](https://my.feishu.cn/wiki/IGlrwTCtliHL3pketcOc6Mdjn6g)  
 移动端自动化过程如下视频：  
 https://github.com/user-attachments/assets/4ace3265-ee57-4356-b940-a3a9c85e3100
 
